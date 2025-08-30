@@ -2,7 +2,7 @@
   <img src="banner.png" alt="Banner" width="100%" />
 </p>
 
-# Hello!, I'm Fajar — AI & Data Engineer 👋🏼  
+# Hello!, My Name Muhammad Fajar Agus Saputra — AI & Data Engineer 👋🏼  
 I specialize in designing data pipelines, building and deploying ML models, and developing AI-powered applications.
 
 🧑‍💻 Currently working at [TRAVLR](https://www.travlr.com)  
