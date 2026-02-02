@@ -31,6 +31,10 @@ I specialize in designing data pipelines, building and deploying ML models, and 
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+# 🚀 Current Projects
+
+- 🐈 **[CatLang](https://muhfajaragus.com/cat_kingdom/catlang)** - Turn any N8N template into Langgraph prod-ready
+
 
 # 🤝 Connect With Me
 
